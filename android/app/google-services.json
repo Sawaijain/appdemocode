@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "791081904467",
+    "project_id": "carrier-agrigartor",
+    "storage_bucket": "carrier-agrigartor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791081904467:android:1857d3cfc45a8074e219a6",
+        "android_client_info": {
+          "package_name": "com.agtapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791081904467-b92kkj7d6r4uc2o31s3ik1n70j4llpba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHgiSPBSCLIoawPd2LPXnxYCokmV72q3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791081904467-b92kkj7d6r4uc2o31s3ik1n70j4llpba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791081904467-l8m66gce9793q3frgdreb26d1bdfjrne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agtapp.agt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
